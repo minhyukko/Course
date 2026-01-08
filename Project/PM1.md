@@ -54,7 +54,7 @@ The submission for this deliverable will depend on the specific SE process model
 | Spiral | identify PM2 objectives, anticipated risks, and how you plan to mitigate them |
 | Waterfall | submit a simplified version of a software requirements specification (SRS) document for your system [[example](https://assets.asana.biz/transform/4a6dce32-7fe3-42a9-9ff9-a22083597903/inline-project-management-software-requirement-document-template-3-2x?io=transform:fill,width:2560&format=webp)] |
 
-* If your process is not listed below, please contact Dr. Brown for an equivalent submission.
+* If your process is not listed below, please contact Prof. Ko for an equivalent submission.
 
  **Due:** February 20 at 11:59pm
 - [ ] Requirements Documentation (one document or separate well-labeled documents)
