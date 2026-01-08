@@ -67,7 +67,7 @@ By the end of this course, students should be able to:
 | Apr 14  | Project Workday (instructor travel) | | 
 | Apr 16  | Project Workday (instructor travel) | | 
 |  <tr><th colspan=3> 🚀 &nbsp;&nbsp;&nbsp; Deployment &nbsp;&nbsp;&nbsp; 💻 </th></tr> |
-| Apr 21  | CI/CD and Deployment | [PM5](./Project/PM5.md) (due 5/1); HW6 (due 5/1)  |
+| Apr 21  | CI/CD and Deployment | [PM5](./Project/PM5.md) (due 4/24); HW6 (due 5/1)  |
 |  <tr><th colspan=3> 👀 &nbsp;&nbsp;&nbsp; Emerging Topics &nbsp;&nbsp;&nbsp; 🔍 </th></tr> |
 | Apr 23  | How to Train Your LLMs / Final Exam Review  | [PM6](./Project/PM6.md) (4/30; 5/8) |
 | Apr 28  | Retrospective / Project Workday | |
