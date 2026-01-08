@@ -30,7 +30,7 @@ The submission for this deliverable will depend on the specific SE process model
 | Spiral | review of encountered and mitigated risks from PM2 | identify PM3 objectives, anticipated risks, and how you plan to mitigate them |
 | Waterfall | N/A | submit updated SRS document with requirements as well as high-level, low-level, and UI design contraints |
 
-* If your process is not listed below, please contact Dr. Brown for an equivalent submission.
+* If your process is not listed below, please contact Prof. Ko for an equivalent submission.
 
  **Due:** March 17 at **_5:00pm_**
 - [ ] Lightning talk slides
