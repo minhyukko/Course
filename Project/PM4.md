@@ -33,7 +33,7 @@ The submission for this deliverable will depend on the specific SE process model
 * If your process is not listed below, please contact Dr. Brown for an equivalent submission.
 
 
-**Due:** November 14 at 11:59pm
+**Due:** April 10 at 11:59pm
 - [ ] Implementation (please provide access to your GitHub repository with code)
 - [ ] Black box test plan
 - [ ] Project Deliverable IV
