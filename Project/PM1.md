@@ -56,7 +56,7 @@ The submission for this deliverable will depend on the specific SE process model
 
 * If your process is not listed below, please contact Dr. Brown for an equivalent submission.
 
- **Due:** September 26 at 11:59pm
+ **Due:** February 20 at 11:59pm
 - [ ] Requirements Documentation (one document or separate well-labeled documents)
 - [ ] Project Proposal
 - [ ] Process Deliverable I
