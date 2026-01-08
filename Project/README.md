@@ -26,32 +26,32 @@ You will submit your project in multiple milestones throughout the semester. Mor
 
 |  Milestone (Project Grade %) | Deliverables     |  Deadline       |
 |---------|----------------------------------|-----------------|
-| [PM0](./PM0.md) (5%)  | Meet Group  | Sept 12 |
+| [PM0](./PM0.md) (5%)  | Meet Group  |  Feb 6  |
 |             | Project Questions     |         |
 |             | Initial Ideas         |         |
-| [PM1](./PM1.md) (16%) | Requirements Elicitation | Sept 26 |
+| [PM1](./PM1.md) (16%) | Requirements Elicitation |  Feb 20 |
 |             | Requirements Analysis |         |
 |             | Requirements Specification |    |
 |             | Project Proposal      |         |
 |             | Process Deliverable I |         |
-| [PM2](./PM2.md) (14%) | Lightning Talk        |  Oct 14 _(before class)_  |
-|             | Process Deliverable II|  Oct 17 |
-| [PM3](./PM3.md) (15%) | Process Deliverable II|  Oct 31 |
+| [PM2](./PM2.md) (14%) | Lightning Talk        |  Mar 17 _(before class)_  |
+|             | Process Deliverable II|  Mar 20 |
+| [PM3](./PM3.md) (15%) | Process Deliverable II|  Apr 3  |
 |             | High-Level Design     |         |
 |             | Low-Level Design      |         |
 |             | Design Sketch         |         |
 |             | Process Deliverable III |       |
-| [PM4](./PM4.md) (15%) | Process Deliverable III| Nov 14 |
+| [PM4](./PM4.md) (15%) | Process Deliverable III| Apr 10 |
 |             | Implementation        |         |
 |             | Check-in Survey       |         |
 |             | Black Box Test Plan   |         |
 |             | Process Deliverable IV|         |
-| [PM5](./PM5.md) (15%) | Process Deliverable IV|  Dec 5  |
+| [PM5](./PM5.md) (15%) | Process Deliverable IV|  Apr 24 |
 |             | Code Review           |         |
 |             | Testing               |         |
 |             | Process Deliverable V |         |
-| [PM5](./PM6.md) (20%) | Final Presentation    |  Dec 9 _(before class)_ |
-|             | Final Report          |  Dec 17 |
+| [PM6](./PM6.md) (20%) | Final Presentation    |  Apr 30 _(before class)_ |
+|             | Final Report          |  May 8  |
 |             | Retrospective         |         |
 
 __Late Policy:__ All milestones are due at 11:59pm on the date specified unless otherwise noted. Late work will be subjected to the same penalty as the course late submission policy (-25% per day).
