@@ -4,7 +4,7 @@
 
 Software engineering involves the development and maintenance of complex software systems. In this course, students will learn about tools and processes used to implement software in practice, focusing on the requirements and design phases of the software development life cycle. Students will also have an opportunity to work on a project incorporating software development tasks, discuss state-of-the-art SE research, and gain the skills and knowledge necessary to succeed as a software engineer in industry. The course will consist of traditional lectures, practical workshops to gain exposure to SE tools and principles, and seminar-style discussions about advanced research topics in software engineering.
 
-Please see the [Course Syllabus](https://docs.google.com/document/d/1jGqHKlM8QHy8utRZ1Kg8g8SqumzIuqXvaba-oTESLvI/edit?usp=sharing) for additional information about course logistics and policies. We will also use [Canvas](https://canvas.vt.edu/courses/196188) and [GitHub](https://github.com/) for submitting coursework and other class assignments.
+Please see the [Course Syllabus](https://docs.google.com/document/d/1WRudGjD_lSr6asLFqcUI2T30ailQP8JW2bf_DZaF2YQ/edit?usp=sharing) for additional information about course logistics and policies. We will also use [Canvas](https://canvas.vt.edu/courses/224154) and [GitHub](https://github.com/) for submitting coursework and other class assignments.
 
 ### Learning Objectives
 
@@ -20,12 +20,12 @@ By the end of this course, students should be able to:
 
 ### Fall 2025 Course Info
 
-* **Lectures:** Tu/Th 9:30-10:45am, SURGE 104D
-* **Final Exam:** Wed December 17, 10:05am-12:05pm, SURGE 104D
-* **Instructor:** [Dr. Chris Brown](https://chbrown13.github.io) [dcbrown@vt.edu], *Office hours:* Tu/Th 11:00am-12:00pm; Gilbert 4105 or [Zoom](https://virginiatech.zoom.us/my/dcbrown)
-* **GTA:** Huayu Liang [huayu98@vt.edu], *Office hours:* Tu 2:00-4:00pm; [Zoom](https://virginiatech.zoom.us/j/3373387345)
-* **GTA:** Aninditaa Chauhan [aninditaach@vt.edu], *Office hours:* Mon 3-5pm; [Zoom](https://virginiatech.zoom.us/j/5795601801)
-* **UTA:** Tanay Khopey [khopeytanay@vt.edu], *Office hours:* Mon/Wed/Fri 6-8pm; [Zoom](https://virginiatech.zoom.us/s/8255587692)
+* **Lectures:** Tu/Th 5:00-6:15am, SURGE 104A
+* **Final Exam:** Sat May 9, 7:00pm-9:00pm, SURGE 104A
+* **Instructor:** [Minhyuk Ko](https://people.cs.vt.edu/minhyukko/) [minhyukko@vt.edu], *Office hours:* Tu/Th 11:00am-12:00pm; [Zoom](https://virginiatech.zoom.us/j/9431029588)
+* **GTA:** Swanand Vaishampayan [swanandsv@vt.edu], *Office hours:* TBD; [Zoom]()
+* **GTA:** Yeana Bond [yeana@vt.edu], *Office hours:* TBD; [Zoom]()
+* **GTA:** Ye Cao [yecao@vt.edu], *Office hours:* TBD; [Zoom]()
 
 ## Schedule 
 
@@ -34,43 +34,44 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Aug 26  | Introduction / Software Development Lifecycle | [HW0](https://canvas.vt.edu/courses/215812/assignments/2481865) (due 9/5); [PM0](https://canvas.vt.edu/courses/215812/assignments/2481868) (due 9/12) |
-| Aug 28  | Software Engineering Processes | |
+| Jan 20  | Introduction / Software Development Lifecycle | [HW0](https://canvas.vt.edu/courses/215812/assignments/2481865) (due 1/30); [PM0](https://canvas.vt.edu/courses/215812/assignments/2481868) (due 2/6) |
+| Jan 22  | Software Engineering Processes | |
 | <tr><th colspan=3> 📜 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
-| Sept 2  | Software Requirements Overview |  |
-| Sept 4  | Requirements Analysis and Specification |  |
-| Sept 9  | Project Management | [HW1](https://canvas.vt.edu/courses/215812/assignments/2481867) (due 9/19) |
-| Sept 11 | Project Workday |  |
+| Jan 27  | Software Requirements Overview |  |
+| Jan 29  | Requirements Analysis and Specification |  |
+| Feb 3   | Project Management | [HW1](https://canvas.vt.edu/courses/215812/assignments/2481867) (due 2/13) |
+| Feb 5   | Résumé Workshop |  |
 | <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
-| Sept 16 | Software Design Principles | [PM1](./Project/PM1.md) (due 9/26) |
-| Sept 18 | Software Architecture |  |
-| Sept 23 | Low-Level Design | [HW2](https://canvas.vt.edu/courses/215812/assignments/2481870) (due 10/3) |
-| Sept 25 | UI Design | |
-| Sept 30 | Project Workday (dcbrown travel) | [PM2](./Project/PM2.md) (due 10/14; 10/17) |
-| Oct 2   | [Guest Lecture] (dcbrown travel) | |
-| Oct 7   | Exam Review (dcbrown travel)  | |
-| Oct 9   | 💯 Exam 💯 (dcbrown travel) | |
-| Oct 14  | ⚡ Talks | [HW3](https://canvas.vt.edu/courses/215812/assignments/2481884) (due 10/24) |
-| Oct 16  | ⚡ Talks |  |
+| Feb 10  | Software Design Principles | [PM1](./Project/PM1.md) (due 2/20) |
+| Feb 12  | Software Architecture |  |
+| Feb 17  | Low-Level Design | [HW2](https://canvas.vt.edu/courses/215812/assignments/2481870) (due 2/27) |
+| Feb 19  | UI Design | |
+| Feb 24  | Project Workday | [PM2](./Project/PM2.md) (due 3/17; 3/20) |
+| Feb 26  | Exam Review | |
+| Mar 3   | 💯 Exam 💯 | |
+| Mar 5   | NO CLASS (instructor travel) | |
+|  <tr><th colspan=3> Spring Break </th></tr> |
+| Mar 10  | SPRING BREAK, NO CLASS 🙏 | |
+| Mar 12  | SPRING BREAK, NO CLASS 🙏 | |
+|  <tr><th colspan=3> ⚡ Talks </th></tr> |
+| Mar 17  | ⚡ Talks | [HW3](https://canvas.vt.edu/courses/215812/assignments/2481884) (due 3/27) |
+| Mar 19  | ⚡ Talks |  |
 | <tr><th colspan=3>  ⌨️ &nbsp;&nbsp;&nbsp; SE Fundamentals &nbsp;&nbsp;&nbsp; 📝  </th></tr> |
-| Oct 21  | Implementation and Code Quality | [PM3](./Project/PM3.md) (due 10/31); HW4 (due 11/7)  |
-| Oct 23  | [Guest Lecture] |  |
-| Oct 28  | Version Control |  |
-| Oct 30  | AI Writing Code |  |
+| Mar 24  | Implementation and Code Quality | [PM3](./Project/PM3.md) (due 4/3); HW4 (due 4/10)  |
+| Mar 26  | Version Control |  |
+| Mar 31  | AI Writing Code |  |
 | <tr><th colspan=3>  🧹 &nbsp;&nbsp;&nbsp; Maintenance and Testing &nbsp;&nbsp;&nbsp; 🧪  </th></tr> |
-| Nov 4   | Maintenance | [PM4](./Project/PM4.md) (due 11/14); [HW5](https://canvas.vt.edu/courses/215812/assignments/2501372) (due 11/21) |
-| Nov 6   | Testing | |
-| Nov 11  | [Guest Lecture] | |
-| Nov 13  | Project Workday | | 
+| Apr 2   | Maintenance | [PM4](./Project/PM4.md) (due 4/10); [HW5](https://canvas.vt.edu/courses/215812/assignments/2501372) (due 4/17) |
+| Apr 7   | Testing | |
+| Apr 9   | Project Workday (instructor travel) | |
+| Apr 14  | Project Workday (instructor travel) | | 
+| Apr 16  | Project Workday (instructor travel) | | 
 |  <tr><th colspan=3> 🚀 &nbsp;&nbsp;&nbsp; Deployment &nbsp;&nbsp;&nbsp; 💻 </th></tr> |
-| Nov 18  | CI/CD and Deployment | [PM5](./Project/PM5.md) (due 12/5); HW6 (due 12/5)  |
-| Nov 20  | [Guest Lecture] | |
-|  <tr><th colspan=3> Thanksgiving Break </th></tr> |
-| Nov 25 | 🦃 THANKSGIVING BREAK, NO CLASS 🙏🏿 | |
-| Nov 27 | 🦃 THANKSGIVING BREAK, NO CLASS 🙏🏿 | |
+| Apr 21  | CI/CD and Deployment | [PM5](./Project/PM5.md) (due 5/1); HW6 (due 5/1)  |
 |  <tr><th colspan=3> 👀 &nbsp;&nbsp;&nbsp; Emerging Topics &nbsp;&nbsp;&nbsp; 🔍 </th></tr> |
-| Dec 2  | How to Train Your LLMs / Final Exam Review  | [PM6](./Project/PM6.md) (12/9; 12/17) |
-| Dec 4  | Retrospective / Project Workday | |
+| Apr 23  | How to Train Your LLMs / Final Exam Review  | [PM6](./Project/PM6.md) (4/30; 5/8) |
+| Apr 28  | Retrospective / Project Workday | |
 |  <tr><th colspan=3>  💯 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 💯  </th></tr> |
-| Dec 9  | Project Demos | |
-| Dec 17 | Project Demos and Final Exam |  |
+| Apr 30  | Project Demos | |
+| May 5   | Project Demos | |
+| May 9   | Final Exam |  |
