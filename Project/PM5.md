@@ -43,9 +43,9 @@ The submission for this deliverable will depend on the specific SE process model
 | Spiral | review of encountered and mitigated risks from PM5 | identify PM6 objectives, anticipated risks, and how you plan to mitigate them |
 | Waterfall | N/A | create a test report outlining the test cases executed, defects found, and testing outcomes |
 
-* If your process is not listed below, please contact Dr. Brown for an equivalent submission.
+* If your process is not listed below, please contact Prof. Ko for an equivalent submission.
 
-**Due:** December 5
+**Due:** May 1
 - [ ] Testing
 - [ ] Code Review
 - [ ] Project Milestone V 
