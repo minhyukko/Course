@@ -18,7 +18,7 @@ By the end of this course, students should be able to:
 * Create and communicate about the requirements and design of a software application
 
 
-### Fall 2025 Course Info
+### Spring 2026 Course Info
 
 * **Lectures:** Tu/Th 5:00-6:15am, SURGE 104A
 * **Final Exam:** Sat May 9, 7:00pm-9:00pm, SURGE 104A
