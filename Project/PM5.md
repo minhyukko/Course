@@ -45,7 +45,7 @@ The submission for this deliverable will depend on the specific SE process model
 
 * If your process is not listed below, please contact Prof. Ko for an equivalent submission.
 
-**Due:** May 1
+**Due:** April 24
 - [ ] Testing
 - [ ] Code Review
 - [ ] Project Milestone V 
