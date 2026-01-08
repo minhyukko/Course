@@ -40,7 +40,7 @@ _Required:_ Complete [this survey](https://forms.gle/fbq42BjdDuSdKYXd8) to provi
 
 _Optional:_ Please complete [this survey](https://forms.gle/F8SPwJv4EY1WuQTV6) to provide an individual update on your team's progress separate from the group survey. You do not need to complete this for PM3.
 
-**Due:** October 31 at 11:59pm
+**Due:** April 3 at 11:59pm
 - [ ] Design documentation (one document or separate well-labeled documents)
 - [ ] Process Deliverable III
 - [ ] Team Check-In survey
