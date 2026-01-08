@@ -13,7 +13,7 @@ Your group must complete an oral proposal presentation during class provding an 
 
 * an initial mock-up UI design.
 
-You may divide the presenting duties among your team however you wish, but the talk must be **_no more than 5 minutes_**. The slides for your presentation are due before class on October 14, and lightning talks will take place in class October 14 and 16. The order of lightning talks will be selected randomly and presented immediately before each class. Please be on time for class on these dates. Due to time constraints, there will not be time for Q\&A after each lightning talk.
+You may divide the presenting duties among your team however you wish, but the talk must be **_no more than 5 minutes_**. The slides for your presentation are due before class on March 17, and lightning talks will take place in class on March 17 and 19. The order of lightning talks will be selected randomly and presented immediately before each class. Please be on time for class on these dates. Due to time constraints, there will not be time for Q\&A after each lightning talk.
 
 **Rubric: [Lightning Talk Rubric](https://docs.google.com/spreadsheets/d/1naN-hkgnk3zpC0qfHWU1iA3JJVR4BKaRv4zUnbIopmA/edit?gid=0#gid=0)**
 
@@ -32,8 +32,8 @@ The submission for this deliverable will depend on the specific SE process model
 
 * If your process is not listed below, please contact Dr. Brown for an equivalent submission.
 
- **Due:** October 14 at **_9:30am_**
+ **Due:** March 17 at **_5:00pm_**
 - [ ] Lightning talk slides
 
- **Due:** October 17 at 11:59pm
+ **Due:** March 20 at 11:59pm
 - [ ] Process II deliverable
