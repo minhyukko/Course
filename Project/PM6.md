@@ -31,9 +31,9 @@ At the conclusion of the project, you will asked to complete a brief group and i
 
 **Retrospective Survey:** [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeRIZ8a4OZ07oiL7FmmHpS1qfNMqECcpkZ0S0vbSezWjqRxJQ/viewform?usp=sf_link) 
 
-**Due:** December 9 at **_9:30am_**
+**Due:** April 30 at **_5:00pm_**
 - [ ] Final presentation slides
 
-**Due:** December 17 at 11:59pm
+**Due:** May 8 at 11:59pm
 - [ ] Retrospective survey (submit individually)
 - [ ] Final project report
