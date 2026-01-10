@@ -75,3 +75,7 @@ By the end of this course, students should be able to:
 | Apr 30  | Project Demos | |
 | May 5   | Project Demos | |
 | May 9   | Final Exam |  |
+
+### Acknowledgment
+
+The course materials are adapted from Dr. Brown's CS 3704 course. Thanks to my [award-winning advisor](https://news.vt.edu/articles/2025/04/gradschool-2025-award-winners.html#:~:text=College%20of%20Engineering%3A%20Assistant%20Professor%20Chris%20Brown%2C%20computer%20science) for the wonderful support.
