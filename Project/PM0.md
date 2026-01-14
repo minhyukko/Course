@@ -1,6 +1,6 @@
 # Project Milestone 0: Project Introduction
 
-Please complete this [survey](https://canvas.vt.edu/courses/196188/quizzes/548854) on Canvas to provide project group preferences by 2/6 at 11:59pm. Official groups will be assigned before class on 2/10. For this project milestone, you will meet your project group and discuss potential ideas for your project. Upload a file (pdf or txt) or input the following information to the Canvas assignment with the following details:
+Please complete this [survey](https://canvas.vt.edu/courses/224154/quizzes/653093) on Canvas to provide project group preferences by 2/6 at 11:59pm. Official groups will be assigned before class on 2/10. For this project milestone, you will meet your project group and discuss potential ideas for your project. Upload a file (pdf or txt) or input the following information to the Canvas assignment with the following details:
 
 1. Come up with a team name for your group.
 
