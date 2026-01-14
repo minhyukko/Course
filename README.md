@@ -25,7 +25,8 @@ By the end of this course, students should be able to:
 * **Instructor:** [Minhyuk Ko](https://people.cs.vt.edu/minhyukko/) [minhyukko@vt.edu], *Office hours:* Tu/Th 11:00am-12:00pm; [Zoom](https://virginiatech.zoom.us/j/9431029588)
 * **GTA:** Swanand Vaishampayan [swanandsv@vt.edu], *Office hours:* TBD; [Zoom]()
 * **GTA:** Yeana Bond [yeana@vt.edu], *Office hours:* TBD; [Zoom]()
-* **GTA:** Ye Cao [yecao@vt.edu], *Office hours:* TBD; [Zoom]()
+* **UTA:** Vignesh Yampally [vigneshy@vt.edu], *Office hours:* TBD; [Zoom]()
+* **UTA:** Aryan Bhowmick [aryanmick@vt.edu], *Office hours:* TBD; [Zoom]()
 
 ## Schedule 
 
@@ -34,17 +35,17 @@ By the end of this course, students should be able to:
 | Date     | Topic                            |  Assignments       |
 |----------|----------------------------------|------------------  |
 | <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
-| Jan 20  | Introduction / Software Development Lifecycle | [HW0](https://canvas.vt.edu/courses/215812/assignments/2481865) (due 1/30); [PM0](https://canvas.vt.edu/courses/215812/assignments/2481868) (due 2/6) |
+| Jan 20  | Introduction / Software Development Lifecycle | [HW0](https://canvas.vt.edu/courses/224154/assignments/2608146) (due 1/30); [PM0](https://canvas.vt.edu/courses/224154/assignments/2608155) (due 2/6) |
 | Jan 22  | Software Engineering Processes | |
 | <tr><th colspan=3> 📜 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
 | Jan 27  | Software Requirements Overview |  |
 | Jan 29  | Requirements Analysis and Specification |  |
-| Feb 3   | Project Management | [HW1](https://canvas.vt.edu/courses/215812/assignments/2481867) (due 2/13) |
+| Feb 3   | Project Management | [HW1](https://canvas.vt.edu/courses/224154/assignments/2608147) (due 2/13) |
 | Feb 5   | Résumé Workshop |  |
 | <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
 | Feb 10  | Software Design Principles | [PM1](./Project/PM1.md) (due 2/20) |
 | Feb 12  | Software Architecture |  |
-| Feb 17  | Low-Level Design | [HW2](https://canvas.vt.edu/courses/215812/assignments/2481870) (due 2/27) |
+| Feb 17  | Low-Level Design | [HW2](https://canvas.vt.edu/courses/224154/assignments/2608148) (due 2/27) |
 | Feb 19  | UI Design | |
 | Feb 24  | Project Workday | [PM2](./Project/PM2.md) (due 3/17; 3/20) |
 | Feb 26  | Exam Review | |
@@ -54,20 +55,20 @@ By the end of this course, students should be able to:
 | Mar 10  | SPRING BREAK, NO CLASS 🙏 | |
 | Mar 12  | SPRING BREAK, NO CLASS 🙏 | |
 |  <tr><th colspan=3> ⚡ Talks </th></tr> |
-| Mar 17  | ⚡ Talks | [HW3](https://canvas.vt.edu/courses/215812/assignments/2481884) (due 3/27) |
+| Mar 17  | ⚡ Talks | [HW3](https://canvas.vt.edu/courses/224154/assignments/2608149) (due 3/27) |
 | Mar 19  | ⚡ Talks |  |
 | <tr><th colspan=3>  ⌨️ &nbsp;&nbsp;&nbsp; SE Fundamentals &nbsp;&nbsp;&nbsp; 📝  </th></tr> |
-| Mar 24  | Implementation and Code Quality | [PM3](./Project/PM3.md) (due 4/3); HW4 (due 4/10)  |
+| Mar 24  | Implementation and Code Quality | [PM3](./Project/PM3.md) (due 4/3); [HW4](https://canvas.vt.edu/courses/224154/assignments/2608150) (due 4/10)  |
 | Mar 26  | Version Control |  |
 | Mar 31  | AI Writing Code |  |
 | <tr><th colspan=3>  🧹 &nbsp;&nbsp;&nbsp; Maintenance and Testing &nbsp;&nbsp;&nbsp; 🧪  </th></tr> |
-| Apr 2   | Maintenance | [PM4](./Project/PM4.md) (due 4/10); [HW5](https://canvas.vt.edu/courses/215812/assignments/2501372) (due 4/17) |
+| Apr 2   | Maintenance | [PM4](./Project/PM4.md) (due 4/10); [HW5](https://canvas.vt.edu/courses/224154/assignments/2608151) (due 4/17) |
 | Apr 7   | Testing | |
 | Apr 9   | Project Workday (instructor travel) | |
 | Apr 14  | Project Workday (instructor travel) | | 
 | Apr 16  | Project Workday (instructor travel) | | 
 |  <tr><th colspan=3> 🚀 &nbsp;&nbsp;&nbsp; Deployment &nbsp;&nbsp;&nbsp; 💻 </th></tr> |
-| Apr 21  | CI/CD and Deployment | [PM5](./Project/PM5.md) (due 4/24); HW6 (due 5/1)  |
+| Apr 21  | CI/CD and Deployment | [PM5](./Project/PM5.md) (due 4/24); [HW6](https://canvas.vt.edu/courses/224154/assignments/2608152) (due 5/1)  |
 |  <tr><th colspan=3> 👀 &nbsp;&nbsp;&nbsp; Emerging Topics &nbsp;&nbsp;&nbsp; 🔍 </th></tr> |
 | Apr 23  | How to Train Your LLMs / Final Exam Review  | [PM6](./Project/PM6.md) (4/30; 5/8) |
 | Apr 28  | Retrospective / Project Workday | |
