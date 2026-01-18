@@ -22,7 +22,7 @@ By the end of this course, students should be able to:
 
 * **Lectures:** Tu/Th 5:00-6:15am, SURGE 104A
 * **Final Exam:** Sat May 9, 7:00pm-9:00pm, SURGE 104A
-* **Instructor:** [Minhyuk Ko](https://people.cs.vt.edu/minhyukko/) [minhyukko@vt.edu], *Office hours:* Tu/Th 11:00am-12:00pm; [Zoom](https://virginiatech.zoom.us/j/9431029588)
+* **Instructor:** [Minhyuk Ko](https://people.cs.vt.edu/minhyukko/) [minhyukko@vt.edu], *Office hours:* Fridays 9:00am-11:00am; [Zoom](https://virginiatech.zoom.us/j/9431029588)
 * **GTA:** Swanand Vaishampayan [swanandsv@vt.edu], *Office hours:* TBD; [Zoom]()
 * **GTA:** Yeana Bond [yeana@vt.edu], *Office hours:* TBD; [Zoom]()
 * **UTA:** Vignesh Yampally [vigneshy@vt.edu], *Office hours:* TBD; [Zoom]()
@@ -41,7 +41,7 @@ By the end of this course, students should be able to:
 | Jan 27  | Software Requirements Overview |  |
 | Jan 29  | Requirements Analysis and Specification |  |
 | Feb 3   | Project Management | [HW1](https://canvas.vt.edu/courses/224154/assignments/2608147) (due 2/13) |
-| Feb 5   | Résumé Workshop |  |
+| Feb 5   | Project Workday |  |
 | <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
 | Feb 10  | Software Design Principles | [PM1](./Project/PM1.md) (due 2/20) |
 | Feb 12  | Software Architecture |  |
