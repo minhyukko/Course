@@ -22,11 +22,11 @@ By the end of this course, students should be able to:
 
 * **Lectures:** Tu/Th 5:00-6:15am, SURGE 104A
 * **Final Exam:** Sat May 9, 7:00pm-9:00pm, SURGE 104A
-* **Instructor:** [Minhyuk Ko](https://people.cs.vt.edu/minhyukko/) [minhyukko@vt.edu], *Office hours:* Fridays 9:00am-11:00am; [Zoom](https://virginiatech.zoom.us/j/9431029588)
-* **GTA:** Swanand Vaishampayan [swanandsv@vt.edu], *Office hours:* TBD; [Zoom]()
-* **GTA:** Yeana Bond [yeana@vt.edu], *Office hours:* TBD; [Zoom]()
-* **UTA:** Vignesh Yampally [vigneshy@vt.edu], *Office hours:* TBD; [Zoom]()
-* **UTA:** Aryan Bhowmick [aryanmick@vt.edu], *Office hours:* TBD; [Zoom]()
+* **Instructor:** [Minhyuk Ko](https://people.cs.vt.edu/minhyukko/) [minhyukko@vt.edu], *Office hours:* Friday 9:00am-11:00am; [Zoom](https://virginiatech.zoom.us/j/9431029588)
+* **GTA:** Swanand Vaishampayan [swanandsv@vt.edu], *Office hours:* Monday 9:00am-11:00am; [Zoom](https://virginiatech.zoom.us/j/6626276787)
+* **GTA:** Yeana Bond [yeana@vt.edu], *Office hours:* Tuesday 2:00pm-4:00pm; [Zoom](https://virginiatech.zoom.us/my/meetyeanaviazoom)
+* **UTA:** Vignesh Yampally [vigneshy@vt.edu], *Office hours:* Monday 11:00am-1:00pm; [Zoom](https://virginiatech.zoom.us/j/2976412803)
+* **UTA:** Aryan Bhowmick [aryanmick@vt.edu], *Office hours:* Friday 2:00pm-4:00pm; [Zoom](https://virginiatech.zoom.us/j/2478200155?omn=84239977154)
 
 ## Schedule 
 
