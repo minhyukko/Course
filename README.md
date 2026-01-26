@@ -38,10 +38,10 @@ By the end of this course, students should be able to:
 | Jan 20  | Introduction / Software Development Lifecycle | [HW0](https://canvas.vt.edu/courses/224154/assignments/2608146) (due 1/30); [PM0](https://canvas.vt.edu/courses/224154/assignments/2608155) (due 2/6) |
 | Jan 22  | Software Engineering Processes | |
 | <tr><th colspan=3> 📜 &nbsp;&nbsp;&nbsp; Requirements &nbsp;&nbsp;&nbsp; 📖 </th></tr> |
-| Jan 27  | Software Requirements Overview |  |
-| Jan 29  | Requirements Analysis and Specification |  |
-| Feb 3   | Project Management | [HW1](https://canvas.vt.edu/courses/224154/assignments/2608147) (due 2/13) |
-| Feb 5   | Project Workday |  |
+| Jan 27  | ☃️ Snow Day ☃️ |  |
+| Jan 29  | Software Requirements Overview |  |
+| Feb 3   | Requirements Analysis and Specification |  |
+| Feb 5   | Project Management | [HW1](https://canvas.vt.edu/courses/224154/assignments/2608147) (due 2/13) |
 | <tr><th colspan=3> 🎨 &nbsp;&nbsp;&nbsp; Design &nbsp;&nbsp;&nbsp; 🖌️ </th></tr> |
 | Feb 10  | Software Design Principles | [PM1](./Project/PM1.md) (due 2/20) |
 | Feb 12  | Software Architecture |  |
