@@ -43,7 +43,7 @@ Your project team must also submit a project proposal document. The proposal mus
 
 ### Process Deliverable (1%)
 
-The submission for this deliverable will depend on the specific SE process model your team plans to use to complete the group project (as described in your project proposal). For your selected SE process, **you must include spring planning activities for the next milestone**. Example submissions include:
+The submission for this deliverable will depend on the specific SE process model your team plans to use to complete the group project (as described in your project proposal). For your selected SE process, **you must include sprint planning activities for the next milestone**. Example submissions include:
 
 | Process | Sprint Planning |
 |---------|-----------------|
