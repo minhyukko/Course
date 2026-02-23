@@ -50,7 +50,7 @@ By the end of this course, students should be able to:
 | Feb 24  | Project Workday | [PM2](./Project/PM2.md) (due 3/17; 3/20) |
 | Feb 26  | Exam Review | |
 | Mar 3   | 💯 Exam 💯 | |
-| Mar 5   | NO CLASS (instructor travel) | |
+| Mar 5   | Mid-Semester Evaluation | |
 |  <tr><th colspan=3> Spring Break </th></tr> |
 | Mar 10  | SPRING BREAK, NO CLASS 🙏 | |
 | Mar 12  | SPRING BREAK, NO CLASS 🙏 | |
