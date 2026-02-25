@@ -1,5 +1,5 @@
 # Exam Study Guide
-The exam will be an overview of all the materials covered in class for the semester so far, focusing on software engineering processes, and requirements and design artifacts and practices. The exam will be a one hour timed Canvas Quiz that is open-book. You are free to use your notes, lectures slides, and other course materials and resources to complete the exam. You may **NOT** work with another person on this exam or use AI tools. Below is a general study guide to help organize your notes and preparation efforts. The exam content will include but is not limited to the following:
+The exam will be an overview of all the materials covered in class for the semester so far, focusing on software engineering processes, and requirements, and design artifacts and practices. The exam will be in class on Tuesday, March 3rd, 5:00-6:15 pm. You are free to use your notes, lecture slides, and other **offline** materials and resources to complete the exam. You may not use any kind of generative AI, including local LLMs. The exam content will include but is not limited to the following:
 
 ### Software Processes
 * Explain the advantages and disadvantages of iterative and plan-driven processes
