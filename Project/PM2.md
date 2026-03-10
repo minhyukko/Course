@@ -15,7 +15,20 @@ Your group must complete an oral proposal presentation during class provding an 
 
 You may divide the presenting duties among your team however you wish, but the talk must be **_no more than 5 minutes_**. The slides for your presentation are due before class on March 17, and lightning talks will take place in class on March 17 and 19. The order of lightning talks will be selected randomly and presented immediately before each class. Please be on time for class on these dates. Due to time constraints, there will not be time for Q\&A after each lightning talk.
 
-**Rubric: [Lightning Talk Rubric](https://docs.google.com/spreadsheets/d/1naN-hkgnk3zpC0qfHWU1iA3JJVR4BKaRv4zUnbIopmA/edit?gid=0#gid=0)**
+**Rubric:**
+
+| Team | Points |
+|------------------------|---------------|
+| Presenter(s) spoke clearly | 10 |
+| Presentation slides are readable | 5 |
+| Team name and members are clearly presented | 5 |
+| Presenter clearly described the problem they will try to solve | 20 |
+| Presenter(s) outlines how their project addresses the problem | 20 |
+| The process and results of a requirements elicitation technique are presented | 20 |
+| Presenter explains how their project is novel to the state-of-the-art | 10 |
+| Presentation is 5 minutes long, +/- 30 seconds | 10 |
+| **Total:** | **100** |
+
 
 ### Process Deliverable II (2%)
 
