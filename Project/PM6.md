@@ -5,7 +5,7 @@ This project milestone will focus on the final submissions of your project.
 
 ### __Final Presentation__ (9%)
 
-Your group must give an _n_ minute oral presentation about your project. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, a visual representation of your project (i.e. mock user interface), a discussion on limitations and future work, processes and tools used, and things you learned. All project team members must participate in the final presentation for the project. The slides for your presentation are due _before_ class on December 9th. The final presentations will take place in class December 9 and 17. The order of lightning talks will be randomly selected immediately before each class. Please be on time.
+Your group must give an _n_ minute oral presentation about your project. The presentation must include the original problem statement, an explanation and rationale for the proposed solution, a visual representation of your project (i.e. mock user interface), a discussion on limitations and future work, processes and tools used, and things you learned. All project team members must participate in the final presentation for the project. The slides for your presentation are due _before_ class on April 30th. The final presentations will take place in class April 30th and May 5th. The order of lightning talks will be randomly selected immediately before each class. Please be on time.
   
 **Rubric: [Final Presentation](https://docs.google.com/spreadsheets/d/1u-bwJfrr8ZrimLgt8vkXo3vLHb-Pb441wb3ollf3FUs/edit?gid=0#gid=0)**
 
