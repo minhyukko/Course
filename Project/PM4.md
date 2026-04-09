@@ -30,7 +30,7 @@ The submission for this deliverable will depend on the specific SE process model
 | Spiral | review of encountered and mitigated risks from PM4 | identify PM5 objectives, anticipated risks, and how you plan to mitigate them |
 | Waterfall | N/A | create a test plan outlining unit test cases based on the requirements and design |
 
-* If your process is not listed below, please contact Dr. Brown for an equivalent submission.
+* If your process is not listed below, please contact Prof. Ko for an equivalent submission.
 
 
 **Due:** April 10 at 11:59pm
