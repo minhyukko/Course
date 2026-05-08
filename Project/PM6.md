@@ -34,6 +34,6 @@ At the conclusion of the project, you will asked to complete a brief group and i
 **Due:** April 30 at **_5:00pm_**
 - [ ] Final presentation slides
 
-**Due:** May 8 at 11:59pm
+**Due:** May **12** at 11:59pm **(Updated)**
 - [ ] Retrospective survey (submit individually)
 - [ ] Final project report
